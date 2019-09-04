@@ -1,8 +1,8 @@
 // Change the url to the domain of your app
 exports.url = 'https://newslettersubscription.herokuapp.com/';
 
-exports.senderEmail = "sender@example.com";
-exports.senderName = "Sender Name";
+exports.senderEmail = "diana.mendoza.rmz@gmail.com";
+exports.senderName = "Brava";
 
 // set 'exports.listId = null' to add contact to all contacts, but no specific list
 // or a string with the listId to add to a specific list
@@ -14,4 +14,4 @@ exports.templateId = "d-259901194db746b28bdcea25e2ef0d8b";
 
 // receive an email when a new signup is confirmed
 exports.sendNotification = true;
-exports.notificationEmail = "admin@example.com";
+exports.notificationEmail = "diana.mendoza.rmz@gmail.com";
